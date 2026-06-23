@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "seansbetterdiscs:item/scotland_the_brave_music_disc"
+  }
+}
