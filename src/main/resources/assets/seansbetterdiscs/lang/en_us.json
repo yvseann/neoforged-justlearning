@@ -1,3 +1,13 @@
 {
-  "item.seansbetterdiscs.scotland_the_brave_music_disc": "Scotland The Brave Music Disc"
+  "item.seansbetterdiscs.scotland_the_brave_music_disc": "Scotland The Brave Music Disc",
+  "item.seansbetterdiscs.scotland_the_brave_music_disc.desc": "Cliff Hanley - Scotland The Brave",
+
+  "item.seansbetterdiscs.one_music_disc": "One Music Disc",
+  "item.seansbetterdiscs.one_music_disc.desc": "Metallica - One",
+
+  "item.seansbetterdiscs.counting_worms_music_disc": "Counting Worms Music Disc",
+  "item.seansbetterdiscs.counting_worms_music_disc.desc": "Counting Worms - Knocked Loose",
+
+  "item.seansbetterdiscs.blueprints_for_idol_genocide_music_disc": "BLUEPRINTS FOR IDOL GENOCIDE Music Disc",
+  "item.seansbetterdiscs.blueprints_for_idol_genocide_music_disc.desc": "BLUEPRINTS FOR IDOL GENOCIDE - PSYCHO-FRAME"
 }

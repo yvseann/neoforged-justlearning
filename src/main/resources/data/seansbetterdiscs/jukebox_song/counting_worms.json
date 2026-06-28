@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.seansbetterdiscs.counting_worms_music_disc.desc"
+  },
+  "length_in_seconds": 73,
+  "sound_event": "seansbetterdiscs:counting_worms"
+}

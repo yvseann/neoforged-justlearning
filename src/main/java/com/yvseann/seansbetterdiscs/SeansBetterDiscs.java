@@ -37,14 +37,13 @@ public class SeansBetterDiscs {
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModSounds.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
 
         // Register our mod's ModConfigSpec so that FML can create and load the config file for us
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
-
-        ModSounds.register(modEventBus);
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
@@ -55,6 +54,9 @@ public class SeansBetterDiscs {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
             event.accept(ModItems.SCOTLAND_THE_BRAVE_MUSIC_DISC);
+            event.accept(ModItems.ONE_MUSIC_DISC);
+            event.accept(ModItems.COUNTING_WORMS_MUSIC_DISC);
+            event.accept(ModItems.BLUEPRINTS_FOR_IDOL_GENOCIDE_MUSIC_DISC);
         }
     }
 

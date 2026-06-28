@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.seansbetterdiscs.scotland_the_brave_music_disc.desc"
+  },
+  "length_in_seconds": 163.2,
+  "sound_event": "seansbetterdiscs:scotland_the_brave"
+}

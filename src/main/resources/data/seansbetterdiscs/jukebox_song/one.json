@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.seansbetterdiscs.one_music_disc.desc"
+  },
+  "length_in_seconds": 465,
+  "sound_event": "seansbetterdiscs:one"
+}

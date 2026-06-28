@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "seansbetterdiscs:item/counting_worms_music_disc"
+  }
+}

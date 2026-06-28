@@ -1,0 +1,35 @@
+{
+  "scotland_the_brave": {
+    "sounds": [
+      {
+        "name": "seansbetterdiscs:scotland_the_brave",
+        "stream": true
+      }
+    ]
+  },
+
+  "one": {
+    "sounds": [
+      {
+        "name": "seansbetterdiscs:one",
+        "stream": true
+      }
+    ]
+  },
+  "counting_worms": {
+    "sounds": [
+      {
+        "name": "seansbetterdiscs:counting_worms",
+        "stream": true
+      }
+    ]
+  },
+  "blueprints_for_idol_genocide": {
+    "sounds": [
+      {
+        "name": "seansbetterdiscs:blueprints_for_idol_genocide",
+        "stream": true
+      }
+    ]
+  }
+}
